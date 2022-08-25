@@ -1,5 +1,5 @@
 # FrankFlix-App
-This is the Frontend Clone of the popular Netflix App.
+This is the Frontend Clone of the popular Netflix App. Link to the deployed site: https://frankflix-project.web.app/
 
 # Description
 The Flix site is the frontend clone of the Netflix site. It allows users' Authentication (Email and Password) through Firebase, hence, users can Sign-Up, Log In and Log Out of the site. Users' details are stored in the cloud firestore database. Users can also view their account by clicking the Account Link. The movies were called through the movieDb API, gotten through their site.
