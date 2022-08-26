@@ -1,5 +1,6 @@
  # Description
  Flix is a frontend clone of the popular Netflix Site. Link to the deployed site: https://frankflix-project.web.app/
+ The complete files were deployed to the master branch not main. Only few files are in the main branch.
  
  # Overview
   It was developed using the create-react-app library. It allows users' authentication (Email, Password) through Firebase. Users can Login, Log out and SignUp. All users   details are stored in the firestore database. The movieDB API was imployed in calling the movies. The movies are in four categories Up Coming, Trending, Popular
